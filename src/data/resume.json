@@ -1,0 +1,110 @@
+{
+  "profile": {
+    "name": "OH YASUSHI",
+    "nameZh": "翁安志",
+    "nameJp": "おやすし",
+    "nameTh": "ข้าวบ่น",
+    "tagline": "UC SAN DIEGO 2024'",
+    "photo": "/photo.jpg",
+    "contacts": [
+      "+1 858 431 6477",
+      "[mohaelder.github.io/me](https://mohaelder.github.io/me)",
+      "[calen0909@hotmail.com](mailto:calen0909@hotmail.com)",
+      "[linkedin.com/in/mohaelder](https://linkedin.com/in/mohaelder)"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "SIGNIFICANT EXPERIENCES",
+      "entries": [
+        {
+          "org": "[Norra Inc (YC F25)](https://norra.com)",
+          "role": "Founding Engineer",
+          "period": "1yr, present",
+          "description": "Built: web, iOS, server. LoRaWAN hardware integration - for an AI-driven healthcare operations platform. Shipped enterprise apps serving live customer deployments within months of joining."
+        },
+        {
+          "org": "UN Office for Project Services",
+          "role": "Senior ICT Associate",
+          "period": "1yr, 2025",
+          "description": "Build LLM data & userflow analysis engine for the UN to help officers and government stakeholders understand procurement workflows."
+        },
+        {
+          "org": "UN Office for Project Services",
+          "role": "Fullstack Engineer",
+          "period": "8mo, 2023",
+          "description": "Modernize the UN procurement platform with Svelte and modern .NET, helping drive $175M in global impact across regions including Palestine and Ukraine."
+        },
+        {
+          "org": "[Aako Inc](https://aako.world)",
+          "role": "Technical Founder",
+          "period": "2yrs, 2025",
+          "description": "Open-source desk darkroom for film negatives. Rust + Tauri + SvelteKit, physical Beer-Lambert inversion engine, integrated AI features (upscaling, dust removal, enhancement)."
+        },
+        {
+          "org": "[OpenEnlarge](https://github.com/mohaelder/OpenEnlarge)",
+          "role": "Creator",
+          "period": "2026",
+          "description": "Open-source darkroom for color film negatives. Rust + Tauri + SvelteKit, physical Beer-Lambert inversion engine, integrated AI features (upscaling, dust removal, enhancement)."
+        },
+        {
+          "org": "NVIDIA",
+          "role": "Game Performance Analyst",
+          "period": "7mo, 2020",
+          "description": "GeForce Experience Game Optimization and Performance / Automation / Deep Learning."
+        }
+      ]
+    },
+    {
+      "heading": "FUN EXPERIENCES",
+      "entries": [
+        {
+          "org": "[Avian Enigma](https://store.steampowered.com)",
+          "role": "Co-Producer & Lead Engineer",
+          "period": "2024",
+          "description": "Developed and published the first Manchurian visual novel, leading development and design, earned Very Positive Steam rating for its avant-garde art and cultural originality."
+        },
+        {
+          "org": "[Self Reliance](https://example.com)",
+          "role": "Producer & Lead Engineer",
+          "period": "2018",
+          "description": "Led development of a sex-education game reaching 30K DAU and 300K+ users and featured by CGTN."
+        },
+        {
+          "org": "UCLA EDUC 88S: Gamification in Education",
+          "role": "Guest Lecturer",
+          "period": "2024",
+          "description": "Invited by instructor Sharon Zhao to give a lecture on Gamification Applications, covering entrepreneurial problem-solving methods and application-level technical concepts."
+        },
+        {
+          "org": "[Uimf-svelte](https://github.com/mohaelder/uimf-svelte)",
+          "role": "Owner",
+          "period": "2023",
+          "description": "Built an open-source Svelte component library that auto-generates frontends from UiMetadataFramework, now used across multiple UN services."
+        },
+        {
+          "org": "UncommonGallery",
+          "role": "Curator",
+          "period": "1yr, present",
+          "description": "A non-profit photography gallery featuring contemporary local artists alongside works from Renaissance to Shamanic traditions, open free to the public."
+        },
+        {
+          "org": "More Club",
+          "role": "Co-Founder",
+          "period": "2017",
+          "description": "More club is a school club I started with my friends in High School; ran viral social media and made killer apps. It is the best club in my high school's history."
+        }
+      ]
+    },
+    {
+      "heading": "ARTICLES, HONORS & NEWS",
+      "links": [
+        "[Why don’t I like OAs & how to design a good OA](https://medium.com/@calen0909/why-dont-i-like-oas-how-to-design-a-good-oa-ac2716a71682) - Medium",
+        "[Implementing Semantic Search with OpenAI, Postgres, and Entity Framework](https://medium.com/@calen0909/implementing-semantic-search-with-openai-postgres-and-entity-framework-4414cf516b48) - Medium",
+        "[IPA Awards 2025 2nd Place](https://www.photoawards.com/winner/zoom.php?eid=8-1722599429-25)",
+        "[ND Awards 2024 Honorable Mention](https://ndawards.net/winners-gallery/nd-awards-2024/non-professional/photojournalism-story/hm/22290/)",
+        "[Sex education game developed by Chinese high-schooler - CGTN](https://news.cgtn.com/news/3d3d674d7851544f33457a6333566d54/index.html)"
+      ]
+    }
+  ]
+}

@@ -18,34 +18,34 @@
       "heading": "SIGNIFICANT EXPERIENCES",
       "entries": [
         {
-          "org": "[Norra Inc (YC F25)](https://norra.com)",
-          "role": "Founding Engineer",
+          "org": "[Flick (YC F25)](https://flick.art)",
+          "role": "Software Engineer",
           "period": "1yr, present",
-          "description": "Built: web, iOS, server. LoRaWAN hardware integration - for an AI-driven healthcare operations platform. Shipped enterprise apps serving live customer deployments within months of joining."
+          "description": "Connect with filmmakers and build what they want. Build 3D Stage from scratch."
         },
         {
-          "org": "UN Office for Project Services",
-          "role": "Senior ICT Associate",
+          "org": "[Aako Inc](https://aako.world)",
+          "role": "Technical Founder",
+          "period": "1yr, 2024",
+          "description": "Build agentic spatial social media from scratch. Too early for the market, made lots of bad decisions and learned from it."
+        },
+        {
+          "org": "UC San Diego",
+          "role": "Instructional Assistant",
+          "period": "1yr, 2022",
+          "description": "Leading labs for CSE15L."
+        },
+        {
+          "org": "[Norra Inc (YC F25)](https://norra.com)",
+          "role": "Founding Engineer",
           "period": "1yr, 2025",
-          "description": "Build LLM data & userflow analysis engine for the UN to help officers and government stakeholders understand procurement workflows."
+          "description": "Build agentic healthcare operation pipeline. Goes to nursing facilities to ensure everything works E2E."
         },
         {
           "org": "UN Office for Project Services",
           "role": "Fullstack Engineer",
           "period": "8mo, 2023",
-          "description": "Modernize the UN procurement platform with Svelte and modern .NET, helping drive $175M in global impact across regions including Palestine and Ukraine."
-        },
-        {
-          "org": "[Aako Inc](https://aako.world)",
-          "role": "Technical Founder",
-          "period": "2yrs, 2025",
-          "description": "Open-source desk darkroom for film negatives. Rust + Tauri + SvelteKit, physical Beer-Lambert inversion engine, integrated AI features (upscaling, dust removal, enhancement)."
-        },
-        {
-          "org": "[OpenEnlarge](https://github.com/mohaelder/OpenEnlarge)",
-          "role": "Creator",
-          "period": "2026",
-          "description": "Open-source darkroom for color film negatives. Rust + Tauri + SvelteKit, physical Beer-Lambert inversion engine, integrated AI features (upscaling, dust removal, enhancement)."
+          "description": "Build procurement platform for governments & UN agencies. Revamp all old Augular JS code to Svelte."
         },
         {
           "org": "NVIDIA",
@@ -83,10 +83,10 @@
           "description": "Built an open-source Svelte component library that auto-generates frontends from UiMetadataFramework, now used across multiple UN services."
         },
         {
-          "org": "UncommonGallery",
-          "role": "Curator",
+          "org": "[OpenEnlarge](https://openenlarge.io)",
+          "role": "Owner",
           "period": "1yr, present",
-          "description": "A non-profit photography gallery featuring contemporary local artists alongside works from Renaissance to Shamanic traditions, open free to the public."
+          "description": "Open source film scan reversal tool. 1k + users."
         },
         {
           "org": "More Club",

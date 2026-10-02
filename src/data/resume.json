@@ -15,78 +15,78 @@
   },
   "sections": [
     {
-      "heading": "SIGNIFICANT EXPERIENCES",
+      "heading": "SIGNIFICANT EXPERIENCE",
       "entries": [
         {
           "org": "[Flick (YC F25)](https://flick.art)",
           "role": "Software Engineer",
-          "period": "1yr, present",
-          "description": "Connect with filmmakers and build what they want. Build 3D Stage from scratch."
+          "period": "Present",
+          "description": "Connect with filmmakers and build what they want. Built 3D Stage from scratch."
         },
         {
-          "org": "[Aako Inc](https://aako.world)",
+          "org": "[Aako](https://aako.world)",
           "role": "Technical Founder",
-          "period": "1yr, 2024",
-          "description": "Build agentic spatial social media from scratch. Too early for the market, made lots of bad decisions and learned from it."
+          "period": "2024",
+          "description": "Built an agentic spatial social network from scratch. Learned the hard way."
         },
         {
           "org": "UC San Diego",
           "role": "Instructional Assistant",
-          "period": "1yr, 2022",
+          "period": "2022",
           "description": "Leading labs for CSE15L."
         },
         {
-          "org": "[Norra Inc (YC F25)](https://norra.com)",
+          "org": "[Norra (YC F25)](https://norra.com)",
           "role": "Founding Engineer",
-          "period": "1yr, 2025",
-          "description": "Build agentic healthcare operation pipeline. Goes to nursing facilities to ensure everything works E2E."
+          "period": "2025",
+          "description": "Helped build an agentic healthcare operation pipeline. Went to nursing facilities to make sure everything worked E2E."
         },
         {
           "org": "UN Office for Project Services",
           "role": "Fullstack Engineer",
-          "period": "8mo, 2023",
-          "description": "Build procurement platform for governments & UN agencies. Revamp all old Augular JS code to Svelte."
+          "period": "2023",
+          "description": "Worked on procurement platform for governments & UN agencies. Rebuilt legacy AugularJS components in Svelte."
         },
         {
           "org": "NVIDIA",
           "role": "Game Performance Analyst",
-          "period": "7mo, 2020",
+          "period": "2020",
           "description": "GeForce Experience Game Optimization and Performance / Automation / Deep Learning."
         }
       ]
     },
     {
-      "heading": "FUN EXPERIENCES",
+      "heading": "FUN EXPERIENCE",
       "entries": [
         {
           "org": "[Avian Enigma](https://store.steampowered.com/app/2784960/Avian_Enigma/)",
           "role": "Co-Producer & Lead Engineer",
           "period": "2024",
-          "description": "Developed and published the first Manchurian visual novel, leading development and design, earned Very Positive Steam rating for its avant-garde art and cultural originality."
+          "description": "First Manchurian visual novel, earned Very Positive Steam rating for its avant-garde art and cultural originality."
         },
         {
           "org": "[Self Reliance](https://store.steampowered.com/app/1016110/Self_Reliance/)",
           "role": "Producer & Lead Engineer",
           "period": "2018",
-          "description": "Led development of a sex-education game reaching 30K DAU and 300K+ users and featured by CGTN."
+          "description": "SexEd game with max 30k DAU, 300K+ users and featured by CGTN."
         },
         {
           "org": "UCLA EDUC 88S: Gamification in Education",
           "role": "Guest Lecturer",
           "period": "2024",
-          "description": "Invited by instructor Sharon Zhao to give a lecture on Gamification Applications, covering entrepreneurial problem-solving methods and application-level technical concepts."
+          "description": "Lecture on Gamification covering entrepreneurial problem-solving methods and application-level technical concepts."
         },
         {
           "org": "[Uimf-svelte](https://github.com/mohaelder/uimf-svelte)",
           "role": "Owner",
           "period": "2023",
-          "description": "Built an open-source Svelte component library that auto-generates frontends from UiMetadataFramework, now used across multiple UN services."
+          "description": "Open-source Svelte component library that auto-generates frontends from UiMetadataFramework, now used across multiple UN services."
         },
         {
           "org": "[OpenEnlarge](https://openenlarge.io)",
           "role": "Owner",
-          "period": "1yr, present",
-          "description": "Open source film scan reversal tool. 1k + users."
+          "period": "Present",
+          "description": "Open source film negative inversion tool. 1k + users."
         },
         {
           "org": "More Club",
